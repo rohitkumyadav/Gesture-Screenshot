@@ -1,0 +1,1 @@
+from project_Screenshot.r_screenshot import capture_screenshot
